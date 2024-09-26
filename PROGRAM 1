@@ -1,4 +1,3 @@
-// //! 1.A person is traveling in a train from sealdah to barasat , he want to search whether madhyamgram is there in between or not . WAP to check whether he has found his destinationÂ orÂ notÂ .
 
 #include <bits/stdc++.h>
 
@@ -43,24 +42,3 @@ int main()
 
     return 0;
 }
-// string stations[] = {"Sealdah", "Dum Dum", "Belgharia", "Agarpara", "Sodpur", "Madhyamgram", "Barasat"};
-// string destination;
-// cout << "Enter the station name : ";
-// cin >> destination;
-// for (int i = 0; i < 7; i++)
-// {
-//     if (stations[i] == destination)
-//     {
-//         cout << "Yes, " << destination << " is there in between Sealdah and Barasat." << endl;
-//         return 0;
-//     }
-// }
-// cout << "No, " << destination << " is not there in between Sealdah and Barasat." << endl;
-//     return 0;
-
-/*
-1.A person is traveling in a train from sealdah to barasat , he want to search whether madhyamgram is there in between or not . WAP to check whether he has found his destination or not .
-2. sir hhas come into class , he wants to check whether debasmita is there or not
-3. WAP in c , to implement bouble shot , if the array is shorted then it will not iterate
-4. WAP in c to check if a string is palindrome or not , without using string.h
-*/
